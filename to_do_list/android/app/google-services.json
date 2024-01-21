@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536749727273",
+    "project_id": "to-do-list-3-546ef",
+    "storage_bucket": "to-do-list-3-546ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536749727273:android:c2f1c9a6e79dea45c58638",
+        "android_client_info": {
+          "package_name": "com.grigorev.to_do_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANUE5acdn7qeDL8uTDki5kOThmhJz2DXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
